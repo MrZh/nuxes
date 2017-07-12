@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jan 22 17:07:18 CST 2016
+http\://maven-repo\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.apache.lucene\:lucene-queryparser\:pom\:${lucene.version} from/to nexus (http\://maven-repo\:8081/nexus/content/groups/public)\: Illegal character in path at index 89\: http\://maven-repo\:8081/nexus/content/groups/public/org/apache/lucene/lucene-queryparser/${lucene.version}/lucene-queryparser-${lucene.version}.pom
+14399ca34b73858bd6485939a9872a7cea402a07@default-nexus-http\://maven-repo\:8081/nexus/content/groups/public/.lastUpdated=1453453638662
