@@ -57,7 +57,7 @@ under the License.
     <mirror>
       <id>nexus</id>
       <name>internal nexus repository</name>
-      <url>http://localhost:8081/nexus/content/groups/public</url>  
+      <url>http://localhost:8082/repository/maven-public/</url>  
       <mirrorOf>*</mirrorOf> 
     </mirror> 
   </mirrors>
@@ -74,7 +74,7 @@ under the License.
       <repositories>
         <repository>
           <id>nexus</id>
-          <url>http://localhost:8081/nexus/content/groups/public</url>
+          <url>http://localhost:8082/repository/maven-public/</url>
           <releases>
             <enabled>true</enabled>
           </releases>
@@ -86,7 +86,7 @@ under the License.
       <pluginRepositories>
         <pluginRepository>
           <id>nexus</id>
-          <url>http://localhost:8081/nexus/content/groups/public</url>
+          <url>http://localhost:8082/repository/maven-public/</url>
           <releases>
             <enabled>true</enabled>
           </releases>
